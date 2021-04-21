@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@togglecorp/fujs": "^1.9.2-beta.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.22.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1"
+  }
+}
